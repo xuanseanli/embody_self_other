@@ -7,6 +7,6 @@ The folder contains two subfolders:
 
 2. psychtoolbox_scripts: contains Matlab scripts for presenting the stimuli and launching the embody tool for each trial and condition(self and other) through Psychtoolbox. Music and film stimuli used in the study are also stored her. 
 
-#CITE
+# CITE
 If you would like to use this code and/or stimuli, please cite Sachs, M. E., Kaplan, J., & Habibi, A. (2019). Echoing the emotions of others: empathy is related to how adults and children map emotion onto the body. Cognition and Emotion, 0(0), 1–16. http://doi.org/10.1080/02699931.2019.1591938
 
